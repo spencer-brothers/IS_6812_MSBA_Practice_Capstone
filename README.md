@@ -1,4 +1,8 @@
 # IS_6812_MSBA_Practice_Capstone
+
+## If Cloning Project From GitHub Repository
+
+This project relies on data obtained from [Kaggle](https://www.kaggle.com/competitions/home-credit-default-risk/data). In order to run the notebook, the data must be downloaded and saved to a directory named "data" in the same directory this README file and the python notebook are located.
  
 ## Questions
 
